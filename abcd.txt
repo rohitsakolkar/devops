@@ -1,1 +1,1 @@
-My First Git-Jenkins Project.
+My First Git-Jenkins Project using plugin
