@@ -5,7 +5,7 @@ ADD . /app/
  
 EXPOSE 3000
  
-RUN dotnet build
+#RUN dotnet build
  
 WORKDIR /app/Core.Application/
  
